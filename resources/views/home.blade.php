@@ -4,6 +4,5 @@
 
 @section('content')
 <div>
-    ciao
 </div>
 @endsection
